@@ -5,7 +5,7 @@ void setup(){
 void loop()
 {
   digitalWrite(8, HIGH);
-  delay(1000);
+  delay(1);
   digitalWrite(8, LOW);
-  delay(1000);
+  delay(1);
 }
